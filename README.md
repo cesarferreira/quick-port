@@ -18,6 +18,12 @@
   </p>
 </div>
 
+<p align="center">
+  <img src="docs/screenshot.png" alt="Quick Port showing searchable local servers with ports, processes and project names" width="430">
+  <br>
+  <sub>Example local servers.</sub>
+</p>
+
 ---
 
 A native macOS menu bar app for the servers running on your machine. See listening TCP ports, their processes and project folders without hunting through Activity Monitor.
